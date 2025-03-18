@@ -23,6 +23,7 @@ public class Nota implements HasID<Pair<String, String>> {
 
     public void setNota(double nota) { this.nota = nota; }
 
+
     public int getSaptamanaPredare() { return saptamanaPredare; }
 
     public void setSaptamanaPredare(int saptamanaPredare) { this.saptamanaPredare = saptamanaPredare; }

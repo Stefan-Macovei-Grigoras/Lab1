@@ -25,4 +25,7 @@ public class Main {
         // daca se introduce nota la timp, se preia saptamana din sistem
         // altfel, se introduce de la tastatura
     }
+    public void lab1Test(){
+        
+    }
 }
